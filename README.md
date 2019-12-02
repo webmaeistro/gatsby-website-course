@@ -1,28 +1,23 @@
 <p align="center">
-  <a href="http://ultronele.com">
-    <img alt="UltronEle" src="static/logo_ultronele_3.png" width="300" height="180"/>
-  </a>
+  
 </p>
 <h1 align="center">
-  The world’s fastest LMS engine
+  LMS engine
 </h1>
 
 This is a gatsby starter project used to generate a LMS(learning management system) skeleton site.
 
-Logo image is designed in [designevo](https://www.designevo.com/)@2019/01/27
-
 
 ## Latest Updates
 
-* [gatsby-theme-ultronele](https://github.com/runbytech/gatsby-theme-ultronele) released @2019/07/19
-
+* 
 ## Screen Shots
 
-![mobile screen shots](static/img/ue-mobile-screens-github.png)
+!
 
 ## Demo
 
-is [HERE!](https://ultronele.netlify.com/)
+is
 
 
 ## Features
@@ -56,7 +51,7 @@ is [HERE!](https://ultronele.netlify.com/)
 
 Just for a couple of commands, you will have your own LMS, here we go:
 
-> $ gatsby new my-ultronele https://github.com/runbytech/ultron-ele
+> $ gatsby new my-ultronele https://github.com/webmaeistro/gatsby-website-course
 
 > $ cd my-ultronele
 
@@ -69,7 +64,7 @@ Your site is now running at http://localhost:8000
 
 ## 🎓 Learning Gatsby
 
-Looking for more guidance? Full documentation for UltronEle lives [on the website](https://ultronele.netlify.com/userguide). 
+
 
 
 
@@ -79,7 +74,6 @@ Looking for more guidance? Full documentation for UltronEle lives [on the websit
 Prerequisites: github account and netlify account required
 ```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/runbytech/ultron-ele)
 
 
 ## Contribution is Welcome

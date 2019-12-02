@@ -1,9 +1,9 @@
 {
-  "name": "ultronele-starter",
+  "name": "ele-system",
   "private": true,
-  "description": "A ultron-ele starter to get up and developing the fastest elearning system in the world",
+  "description": "A ele starter to get up and developing the fastest elearning system in the world",
   "version": "1.0.1",
-  "author": "lwz7512 <lwz7512@gmail.com>",
+  "author": "Martin Andersen <marander@pm.me>",
   "dependencies": {
     "downloadjs": "^1.4.7",
     "fs-extra": "^7.0.1",

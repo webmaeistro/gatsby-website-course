@@ -10,25 +10,25 @@ const Footer = () => (
       textAlign: `center`
     }}>
     <div>
-      © {new Date().getFullYear()}, Present by{` `}
-      <a href="http://runbytech.co" target="_blank" rel="noopener noreferrer">Runbytech</a>
+      © {new Date().getFullYear()}, Gatsby site by{` `}
+      Martin Andersen @webmaeistro
       <span style={{marginLeft: `40px`, color: `#888`}}>
         Logo made with 
         <a style={{marginLeft: `4px`}}
-          href="https://www.designevo.com/en/" 
-          title="Free Online Logo Maker"
+          href="https://ello.co/marander" 
+          title="Maker"
           target="_blank"
           rel="noopener noreferrer"
-          >DesignEvo</a>
+          >Martin Andersen</a>
       </span>
     </div>
 
     <div style={{ marginTop: `25px`,}}>
-      <a href="https://github.com/runbytech/ultron-ele" style={{margin:`10px`}}
+      <a href="https://github.com/webmaeistro/gatsby-website-course" style={{margin:`10px`}}
         target="_blank" rel="noopener noreferrer">
         <img src={github} style={{width:`32px`, height:`32px`}} alt="github" />
       </a>
-      <a href="https://twitter.com/runbytech" style={{margin:`10px`}}
+      <a href="https://twitter.com/webmaeistro" style={{margin:`10px`}}
         target="_blank" rel="noopener noreferrer">
         <img src={twitter} style={{width:`32px`, height:`32px`}} alt="twitter" />
       </a>

@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Ultron-ELE`,
-    description: `The world's fastest LMS based on Gatsby.`,
-    author: `@lwz7512`,
-    signiture: `Robin w li`,
+    title: `ELEsystem`,
+    description: `The world's fastest LMS based on Gatsby. for mindfulness course `,
+    author: `@webmaeistro`,
+    signiture: `MA`,
     logoImg:`/logo_ultronele.png`,
     menus: [
       {name: 'HOME', url: '/'},
@@ -34,7 +34,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `gatsby-ele-site`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#47BA47`,
